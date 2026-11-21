@@ -1,0 +1,25 @@
+# Customer Churn Prediction – Business Recommendations
+
+## Customer Retention Analysis
+
+The analysis showed that customers with 0–12 months of tenure have the highest churn rate of 47.68%.
+
+## Revenue Analysis
+
+The 0–12 month customer group had 1,037 churned customers and approximately $68,954.25 in total monthly charges associated with those customers.
+
+## Retention Offer Strategy
+
+A hypothetical retention offer of $10 per month for three months was considered.
+
+- Target customers: 1,037
+- Offer cost per customer: $30
+- Total offer cost: $31,110
+- Estimated break-even customers: 156
+- Break-even retention rate: 15.04%
+
+## Final Business Recommendation
+
+The company should prioritize new customers during their first year. It can use welcome discounts, regular follow-ups, better customer support and suitable pricing plans to reduce churn.
+
+The retention offer should be tested with a small customer group before being introduced widely.
